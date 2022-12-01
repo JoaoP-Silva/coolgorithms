@@ -8,3 +8,6 @@ Meu repositório pessoal para estudos de soluções em temas variados.
 
 ## String Match
 * [KMP- Matcher](https://github.com/JoaoP-Silva/coolgorithms/blob/main/src/kmp.cpp)
+
+## Backtracking
+* [Place Queens problem](https://github.com/JoaoP-Silva/coolgorithms/blob/main/src/queensChess.cpp)
