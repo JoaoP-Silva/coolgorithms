@@ -1,0 +1,8 @@
+#Ignore binaries
+*
+!/**/
+!*.*
+*.o
+
+#Ignore vscode
+/.vscode/*
