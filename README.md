@@ -11,3 +11,4 @@ Meu repositório pessoal para estudos de soluções em temas variados.
 
 ## Backtracking
 * [Place Queens problem](https://github.com/JoaoP-Silva/coolgorithms/blob/main/src/queensChess.cpp)
+* [Subset Sum](https://github.com/JoaoP-Silva/coolgorithms/blob/main/src/subsetSum.cpp)
