@@ -1,5 +1,5 @@
 # coolgorithms
-Personal reposototy for diverse solutions.
+Personal repository for diverse solutions.
 
 # Summary
 
