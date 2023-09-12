@@ -1,7 +1,7 @@
 # coolgorithms
-Meu repositório pessoal para estudos de soluções em temas variados.
+Personal reposototy for diverse solutions.
 
-# Sumário de implementações
+# Summary
 
 ## Computational geometry
 * [Verify if a point is inside a triangle](https://github.com/JoaoP-Silva/coolgorithms/blob/main/src/inside_triangle.cpp)
